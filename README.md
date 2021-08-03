@@ -1,8 +1,8 @@
-### Welcome to my profile :)
+<h1> Welcome to my profile :) </h1>
 
 
 - 🔭 I’m currently working on some Python projects for my portfolio
-- 🌱 Also, I’m learning advanced JavaScript topics
+- 🌱 Also, I’m studying advanced JavaScript topics
 - 📫 How to reach me: daniloxaxa01@gmail.com
 - ⚡ Fun fact: In a couple of years, I will be living in Ireland
 
@@ -35,5 +35,8 @@
 <a href="https://github.com/ricarthlima/Danilo-Xaxa/Danilo-Xaxa">
   <img align = "right" src = "https://github-readme-stats.vercel.app/api?username=Danilo-Xaxa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact"/>
 </a>
+
+<!-- ![Snake animation](https://github.com/Danilo-Xaxa/Danilo-Xaxa/blob/output/github-contribution-grid-snake.svg) -->
+
 
 
