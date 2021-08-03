@@ -37,7 +37,7 @@
   <img align = "right" src = "https://github-readme-stats.vercel.app/api?username=Danilo-Xaxa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact"/>
 </a>
 
-<!-- ![Snake animation](https://github.com/Danilo-Xaxa/Danilo-Xaxa/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/Danilo-Xaxa/Danilo-Xaxa/blob/output/github-contribution-grid-snake.svg)
 
 
 
