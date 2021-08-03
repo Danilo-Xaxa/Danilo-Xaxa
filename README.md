@@ -13,5 +13,5 @@
 </a>
 
 <a href="https://github.com/ricarthlima/Danilo-Xaxa/Danilo-Xaxa">
-  <img align = "right" src = "https://github-readme-stats.vercel.app/api?username=Danilo-Xaxa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img align = "right" src = "https://github-readme-stats.vercel.app/api?username=Danilo-Xaxa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact" />
 </a>
