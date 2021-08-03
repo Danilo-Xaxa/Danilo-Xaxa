@@ -9,9 +9,9 @@
 ---
 
 <a href="https://github.com/Danilo-Xaxa/Danilo-Xaxa">
-  <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Xaxa&layout=compact&langs_count=8&theme=dracula" />
+  <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Xaxa&layout=compact&langs_count=8&theme=dracula" style="display: inline;"/>
 </a>
 
 <a href="https://github.com/ricarthlima/Danilo-Xaxa/Danilo-Xaxa">
-  <img align = "right" src = "https://github-readme-stats.vercel.app/api?username=Danilo-Xaxa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact" />
+  <img align = "right" src = "https://github-readme-stats.vercel.app/api?username=Danilo-Xaxa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact" style="display: inline;"/>
 </a>
