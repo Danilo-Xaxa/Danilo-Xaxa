@@ -1,10 +1,10 @@
 <h1> Welcome to my profile :) </h1>
 
 
-- 🔭 I’m currently working on some Python projects for my portfolio
-- 🌱 Also, I’m studying advanced JavaScript topics
-- 📫 How to reach me: daniloxaxa01@gmail.com
-- ⚡ Fun fact: In a couple of years, I will be living in Ireland
+<h3> - 🔭 I’m currently working on some Python projects for my portfolio </h3>
+<h3> - 🌱 Also, I’m studying advanced JavaScript topics </h3>
+<h3> - 📫 How to reach me: daniloxaxa01@gmail.com </h3>
+<h3> - ⚡ Fun fact: In a couple of years, I will be living in Ireland </h3>
 
 ---
 
