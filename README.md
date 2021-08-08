@@ -18,7 +18,7 @@
   <!-- <img align="center" alt="Express" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"> -->
   <img align="center" alt="Python" height="60" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!-- <img align="center" alt="Django" height="75" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"> -->
-  <img align="center" alt="Flask" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+  <img align="center" alt="Flask" height="55" width="55" src="https://github.com/Danilo-Xaxa/livraria/blob/main/static/imagens/flask_icon.png">
   <!-- <img align="center" alt="MySQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> -->
   <!-- <img align="center" alt="MongoDB" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> -->
   <img align="center" alt="Git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
