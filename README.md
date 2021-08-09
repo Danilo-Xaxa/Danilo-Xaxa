@@ -1,14 +1,13 @@
 <h1> Welcome to my profile :) </h1>
 
-
-<h3> - 🔭 I’m currently working on some Python projects for my portfolio </h3>
+<h3> - 🔭 I’m currently working on some Python projects for my portfolio </h2>
 <h3> - 🌱 Also, I’m studying advanced JavaScript topics </h3>
 <h3> - 📫 How to reach me: daniloxaxa01@gmail.com </h3>
 <h3> - ⚡ Fun fact: In a couple of years, I will be living in Ireland </h3>
 
 ---
 
-<div style="display: inline_block;">
+<div>
   <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -31,14 +30,11 @@
 <br>
 
 <a href="https://github.com/Danilo-Xaxa/Danilo-Xaxa">
-  <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Xaxa&theme=dracula"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Xaxa&theme=dracula"/>
 </a>
 
 <a href="https://github.com/ricarthlima/Danilo-Xaxa/Danilo-Xaxa">
-  <img align = "right" src = "https://github-readme-stats.vercel.app/api?username=Danilo-Xaxa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Danilo-Xaxa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact"/>
 </a>
 
 ![Snake animation](https://github.com/Danilo-Xaxa/Danilo-Xaxa/blob/output/github-contribution-grid-snake.svg)
-
-
-
