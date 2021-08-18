@@ -1,4 +1,4 @@
-<h1> Welcome to my profile :) </h1>
+<h1> Hi there! I'm Danilo :) </h1>
 
 <h3> - 🔭 I’m currently working on some Python projects for my portfolio </h2>
 <h3> - 🌱 Also, I’m studying advanced JavaScript topics </h3>
