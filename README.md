@@ -1,8 +1,8 @@
 <h1> Hi there! I'm Danilo :) </h1>
 
-<h3> - 🔭 I work at <a href="https://www.orama.com.br/">Órama<a/> as a back-end developer </h3>
-<h3> - 📫 How to reach me: daniloxaxa01@gmail.com </h3>
-<h3> - ⚡ Fun fact: In a couple years, I'll be living in Ireland </h3>
+<h2> 🔭 I work at <a href="https://www.orama.com.br/">Órama<a/> as a back-end developer </h2>
+<h2> 📫 How to reach me: daniloxaxa01@gmail.com </h2>
+<h2> ⚡ Fun fact: In a couple years, I'll be living in Ireland </h2>
 
 ---
 
@@ -37,4 +37,4 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Danilo-Xaxa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact"/>
 
-![Snake animation](https://github.com/Danilo-Xaxa/Danilo-Xaxa/blob/output/github-contribution-grid-snake.svg)
+ <!-- ![Snake animation](https://github.com/Danilo-Xaxa/Danilo-Xaxa/blob/output/github-contribution-grid-snake.svg) -->
