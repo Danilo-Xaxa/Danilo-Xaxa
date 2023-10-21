@@ -2,7 +2,7 @@
 
 <h2> 🔭 I work at <a href="https://www.orama.com.br/">Órama<a/> as a back-end developer </h2>
 <h2> 📫 How to reach me: daniloxaxa01@gmail.com </h2>
-<h2> ⚡ Fun fact: In a couple years, I'll be living in Ireland </h2>
+<h2> ⚡ Fun fact: in a couple years, I'll be living in Ireland </h2>
 
 ---
 
